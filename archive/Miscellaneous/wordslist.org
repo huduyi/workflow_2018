@@ -1,0 +1,301 @@
+#+TITLE: 新概念英语词汇表
+
+* Lesson 1
+  
+** 词汇
+   1. excuse --  原谅
+   2. me -- 我 (宾格)
+   3. yes -- 是的
+   4. is -- be 动词现在时第三人称单数
+   5. this -- 这
+   6. your -- 你的；你们的
+   7. handbag -- (女用) 手提包
+   8. pardon -- 原谅，请再说一遍
+   9. it -- 它
+   10. thank you -- 谢谢你 (们)
+   11. very much -- 非常地
+   
+** 例句
+   1. Excuse me.
+   
+   2. Pardon ?
+   
+* Lesson 2
+  
+** 词汇 
+   1. pen -- 钢笔
+   2. pencil -- 铅笔
+   3. book -- 书
+   4. watch -- 手表
+   5. coat -- 上衣，外衣
+   6. dress -- 连衣裙
+   7. skirt -- 裙子
+   8. shirt -- 衬衣
+   9. car -- 小汽车
+   10. house -- 房子
+   
+** 例句
+   1. Is this your handbag?
+   
+** 扩展
+   1. watch -- 观看
+   2. boat -- 船 (注意 =oa= 的发音)
+   3. trousers -- 裤子
+   4. bus -- 公交
+   
+* Lesson 3
+  
+** 词汇
+   1. umbrella -- 伞
+   2. please -- 请
+   3. here -- 这里
+   4. my -- 我的
+   5. ticket -- 票
+   6. number -- 号码
+   7. five -- 五
+   8. sorry -- 对不起的
+   9. sir -- 先生
+   10. cloakroom -- 衣帽存放处
+
+** 例句
+   1. Here's (Here is) your coat, sir.
+   
+   2. Sorry. (I'm sorry.)
+
+   3. Is this it ?
+   
+** 扩展
+   1. sunshade -- 遮阳伞
+   2. one, two, three, four, five, six, seven, eight, nine, ten -- 1 到 10
+   3. first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth -- 第 1 到 第 10
+   4. Mr. Hu -- 胡先生
+   5. Mrs. Tian -- 田女士
+   6. Miss Tian -- 田小姐
+      
+* Lesson 4
+  
+** 词汇 
+   1. suit -- 一套衣服
+   2. school -- 学校
+   3. teacher -- 老师
+   4. son -- 儿子
+   5. daughter -- 女儿
+
+** 例句
+   1. Is this your umbrella ?
+   
+** 扩展
+   1. suitable -- 合适的
+   2. kindergarten -- 幼儿园
+   3. primary school -- 小学
+   4. junior high school -- 初中
+   5. middle school (secondary school) -- 中学
+   6. high school -- 高中
+   7. college -- 大学；学院；学会
+   8. university -- 大学；综合性大学；大学校舍
+
+* Lesson 5
+  
+** 词汇 
+   1. Mr. -- 先生
+   2. good -- 好
+   3. morning -- 早晨
+   4. Miss -- 小姐
+   5. new -- 新的
+   6. student -- 学生
+   7. French -- 法国的；法国人
+   8. German -- 德国的；德国人
+   9. nice -- 美好的
+   10. meet -- 遇见
+   11. Japanese -- 日本的；日本人
+   12. Korean -- 韩国的；韩国人
+   13. Chinese -- 中国的；中国人
+   14. too -- 也
+
+** 例句
+   1. Good morning.
+    
+   2. This is Miss Sophie Dupont.
+   
+   3. Nice to meet you.
+
+     用于初次与同学，朋友见面等非正式场合。 
+
+   4. How do you do?
+
+      正式场合说你好。
+
+* Lesson 6
+  
+** 词汇 
+   1. make -- (产品的) 牌号
+   2. Swedish -- 瑞典的
+   3. English -- 英国的
+   4. American -- 美国的
+   5. Italian -- 意大利的
+
+** 例句
+   1. She is a student. She isn't German. She's Spanish.
+    
+   2. This is his car. It is a German car.
+
+   3. What make is this car? It's Toyota.
+
+** 扩展 
+   1. make -- 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成
+   2. make -- 开始；前进；增大；被制造
+   3. make -- 制造；构造；性情
+      [[http://youdao.com/w/make/#keyfrom=dict2.top][make 在有道上的网页]]
+   4. Sweden -- 瑞典
+   5. England -- 英格兰；英国
+   6. British -- 英国的；英国人的；英国人
+   7. America -- 美洲；美国
+   8. U.S.A. -- 美利坚合众国，美国
+   9. Italy -- 意大利
+
+* Lesson 7
+  
+** 词汇 
+   1. I -- 我
+   2. am -- be 动词现在时第一人称单数
+   3. are -- be 动词现在时复数
+   4. name -- 名字
+   5. what -- 什么
+   6. nationality -- 国籍
+   7. job -- 工作
+   8. keyboard -- 电脑键盘
+   9. operator -- 操作人员
+   10. engineer -- 工程师
+
+** 例句
+   1. My name's (My name is) TianXin.
+    
+   2. I'm (I am) Tianxin.
+
+   3. What's your job?
+
+   4. What nationality are you?
+   
+* Lesson 8
+  
+** 词汇 
+   1. policeman -- 警察
+   2. policewoman -- 女警察
+   3. taxi driver -- 出租车汽车司机
+   4. air hostess -- 空姐
+   5. postman -- 邮递员
+   6. nurse -- 护士
+   7. mechanic -- 机械师
+   8. hairdresser -- 理发师
+   9. housewife -- 家庭妇女
+   10. milkman -- 送牛奶的人
+
+** 例句
+   1. My name is Tianxin. I'm from China. I'm Chinese.
+
+* Lesson 9
+  
+** 词汇 
+   1. hello -- 喂
+   2. hi -- 喂，嗨
+   3. how -- 怎样
+   4. today -- 今天
+   5. well -- 身体好
+   6. fine -- 美好的
+   7. thanks -- 谢谢
+   8. goodbye -- 再见
+   9. see -- 见
+
+** 例句
+   1. How are you?
+
+   2. Fine. Thank you.
+    
+   3. And you?
+
+   4. See you.
+
+* Lesson 10
+  
+** 词汇 
+   1. fat -- 胖的
+   2. woman -- 女人
+   3. thin -- 瘦的
+   4. tall -- 高的
+   5. short -- 矮的
+   6. dirty -- 脏的
+   7. clean -- 干净的
+   8. hot -- 热的
+   9. cold -- 冷的
+   10. old -- 老的
+   11. young -- 年轻的
+   12. busy -- 忙的
+   13. lazy -- 懒得
+
+** 例句
+   1. Robert isn't a teacher. He's an engineer.
+
+* Lesson 11
+  
+** 词汇 
+   1. whose -- 谁的
+   2. blue -- 蓝的
+   3. perhaps -- 大概
+   4. white -- 白色的
+   5. catch -- 抓住
+
+** 例句
+   1. Whose shirt is that?
+
+   2. Is this shirt Tim's?
+
+   3. Here you are. (Here it is.)
+      
+** 扩展 
+   1. yellow -- 黄色
+   2. grey -- 灰色
+   3. grab -- 攫取；夺取；霸占
+   4. maybe -- 也许；可能；可能性
+   5. probably -- 大概；也许
+   6. sky -- 天空
+
+* Lesson 12
+  
+** 词汇 
+   1. father -- 父亲
+   2. mother -- 母亲
+   3. blouse -- 女衬衫
+   4. sister -- 姐，妹
+   5. tie -- 领带
+   6. brother -- 兄，弟
+   7. his -- 他的
+   8. her -- 她的
+
+** 例句
+   1. Paul is here too. This is his coat.
+
+** 扩展
+   1. parent -- 父亲 (或母亲)；父母亲；根源
+   2. grandparent -- 祖父母；祖父或祖母
+   3. grandson/granddaughter/grandma/grandpa/grandmother/grandfather
+
+* Lesson 13
+  
+** 词汇 
+   1. color (colour) 颜色
+   2. green -- 绿色
+   3. come -- 来
+   4. upstairs -- 楼上
+   5. smart -- 漂亮的，时髦的
+   6. hat -- 帽子
+   7. same -- 相同的
+   8. lovely -- 可爱的，秀美动人的
+
+** 例句
+   1. What color is this?
+    
+   2. Come upstairs and see it. 
+
+** 扩展
+   1. go upstairs -- 上楼
+   2. go downstairs -- 下楼

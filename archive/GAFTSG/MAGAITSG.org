@@ -1,0 +1,39 @@
+#+TITLE: Methods of Application of Genetic Algorithm Into Trading Signal Generation
+#+AUTHOR: HUCHEN
+
+* Technical Trading: Approach
+  
+  1. 什么样的技术指标或其组合用于市场交易是好的，合理的？
+     首先需要发展出一个自动识别可用于市场交易的技术指标组合 -- 需要一个指标选择算法
+  2. 算法的两个部分
+     - 指标选择
+     - 产生交易信号
+  3. 指标选择问题 -- 分类问题
+     将市场随机波动分类为上升 (Buy Position) 和下降 (Sell Position)，用于区分波动类别与鉴别交易模式利用以下指标：
+     MA, ADX, MACD, RSI, KD, Stoch RSI, Bollinger Bands, MFI, ADI, Chaikin osillator.
+  4. 技术指标的组合对于资产组合优化的性能可以视为一个优化问题
+     建立种群，个体对应的染色体代表一种可能的候选，生物进化过程用数学运算来表示。新的 GA 概览如下：
+     
+     - 种群编码：生成 n 个染色体的随机种群，每个染色体代表一个可能的候选
+
+     - 适应度函数：评估每个染色体 x 在种群中的适应度函数
+
+     - End Criterion: 假如达到终止条件，停止进化并返回最佳的解答
+
+     - 推动（Boosting）：关注那些难以通过调整参数来分类的数据点
+
+     - 繁殖 (Reproduction)：
+       
+       - Selection：根据适应度函数选择两个父类染色体，适应度函数值越大，该染色体被选为父类的可能性越大
+
+       - Crossover: 设定一个杂交概率，对父类进行杂交
+
+       - Mutation: 设定好一个突变概率，在子类染色体随机的位置进行变异
+
+     - 新的种群：利用新的产生的种群来进行新的世代
+
+     - 返回适应度函数步骤
+     
+* Important Components of the GA
+  
+  1. 种群
